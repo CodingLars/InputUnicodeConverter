@@ -5,6 +5,7 @@ It replaces the characters you type with Unicode look-a-likes. This makes the te
 Currently this program **can**:
 - Detect what key is pressed.
 - Delete that character and put in a hardcoded unicode character.
+
 Currently this can **NOT**:
 - Configure custom unicode characters.
 - Convert numbers to unicode characters.
